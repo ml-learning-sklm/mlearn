@@ -5,5 +5,3 @@
 Fundamental architrcture - Linear Neurons, ANNs, CNN, RNN
 # Part 2
 Applications - NLP, Recommenders, Transfer Learning, GAN, RL
-
-# Test
